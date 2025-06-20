@@ -1,0 +1,13 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+      "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+      "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
+      "FUNCTIONS_WORKER_RUNTIME": "python",
+      "BLOB_STORAGE_ENDPOINT": "DefaultEndpointsProtocol=https;AccountName=intelpdfsummaizer;AccountKey=VKCJRZNc0rBySUh/px1rNv6uD4yARjsIbcn5LKrMQdCvMrwVhCpXqeRCocmEIVJrnrYg0oAzPVFk+AStd3Ct8g==;EndpointSuffix=core.windows.net",
+      "COGNITIVE_SERVICES_ENDPOINT": "https://intelpdfsummarizerdaniel.services.ai.azure.com/",
+      "AZURE_OPENAI_ENDPOINT": "https://intelpdfsummarizerdaniel.cognitiveservices.azure.com",
+      "AZURE_OPENAI_KEY": "9avxZFCKLywhkRHkjZMaHbEsdhIQ7UYF4lryX7t7YRokdgcCyg22JQQJ99BFACfhMk5XJ3w3AAAAACOGXGAb",
+      "CHAT_MODEL_DEPLOYMENT_NAME": "gpt-4.1"
+    }
+  }
